@@ -1,6 +1,6 @@
 ﻿public enum GradeType
 {
-    Legendary,
+    RealLegendary,
     Epic,
     Rare,
     Uncommon,
