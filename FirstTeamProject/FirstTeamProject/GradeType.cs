@@ -1,8 +1,9 @@
 ﻿public enum GradeType
 {
-    Legendary,
-    Epic,
-    Rare,
+    Legendary = 100,
+    Epic = 20,
+    Rare = 0,
     Uncommon,
-    Common
+    Common = 15,
+    Damaged
 }
