@@ -1,4 +1,4 @@
-﻿public class Player : IsDamageable
+﻿public class Player : IDamageable
 {
     public int Id { get; set; }
 }
