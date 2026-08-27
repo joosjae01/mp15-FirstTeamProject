@@ -1,5 +1,5 @@
 ﻿
-public class IsDamageable
+public class IDamageable
 {
     
     void GetDamage(int damage)
