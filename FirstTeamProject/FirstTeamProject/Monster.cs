@@ -1,4 +1,4 @@
-﻿public class Monster : IsDamageable
+﻿public class Monster : IDamageable
 {
-    public int Health {  get; set; }
+
 }
